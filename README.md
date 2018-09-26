@@ -1,2 +1,2 @@
 # hello-world
-code
+Motion planning course project. 
